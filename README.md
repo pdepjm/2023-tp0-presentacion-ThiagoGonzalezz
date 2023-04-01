@@ -2,7 +2,7 @@
 - Legajo: 2084510
 - El mejor helado es el de tramontana lejos
 - Me encantan los deportes, jugué toda la vida al basquet
-- Estoy hace 5 horas intentando instalar el haskell (<strong>Unknown error (0x80092012) </strong> - La función de revocación no puede comprobar la revocación para el certificado.)
+- Estoy hace 5 horas intentando instalar el haskell (<strong>Unknown error (0x80092012) </strong> - La función de revocación no puede comprobar la revocación para el certificado.) [Actualización] Después de dos días lo pude solucionar, nada más había que desactivar el antivirus :(
 
 Dejo una foto mía
 
